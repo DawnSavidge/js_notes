@@ -1,0 +1,7 @@
+body {
+    background-color: hsl(0, 21%, 80%);
+}
+
+.wrapper {
+    border: 25px solid red;
+}
